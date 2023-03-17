@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:ACodeHX?theme=rule34">
 
 ## 前端工程师—天平
 
