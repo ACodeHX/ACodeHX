@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://count.getloli.com/get/@:ACodeHX?theme=rule34">
-
-## 前端工程师—天平
-![mona-whisper](https://user-images.githubusercontent.com/127362983/225902761-ed52f84a-2ad0-482c-98f0-07ed881f144f.gif)
-
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
 
