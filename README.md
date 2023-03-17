@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 ![ACodeHX's github stats](https://github-readme-stats.vercel.app/api?username=ACodeHX&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=6)
-#
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=6)
