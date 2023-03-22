@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### **社交主页：**
 
-[GitHub](https://github.com/ACodeHX)
-  
-  [CSDN](https://blog.csdn.net/White_shy?spm=1000.2115.3001.5343)
-
-  [gitee](https://gitee.com/ACodeHX)
 
 ### **技术栈:**
 
@@ -41,3 +35,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=6)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=6)
+
+### **社交主页：**
+
+[GitHub](https://github.com/ACodeHX)
+  
+  [CSDN](https://blog.csdn.net/White_shy?spm=1000.2115.3001.5343)
+
+  [gitee](https://gitee.com/ACodeHX)
