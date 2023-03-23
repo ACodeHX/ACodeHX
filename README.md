@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ACodeHX&repo=mp4To4K-rust)](https://github.com/ACodeHX/mp4To4K-rust)
-<br><br><br>
+
 
 ### Github 活跃度
 
