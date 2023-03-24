@@ -17,7 +17,7 @@ Here are some ideas to get you started:
         red 10%,
         green 50%,
     );
-    -webkit-background-clip:[![](https://activity-graph.herokuapp.com/graph?username=ACodeHX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph);
+    -webkit-background-clip:(https://activity-graph.herokuapp.com/graph?username=ACodeHX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph);
     color:transparent;
 }
 
