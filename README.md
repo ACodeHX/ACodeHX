@@ -7,6 +7,22 @@ Here are some ideas to get you started:
 
 -->
 
+
+##
+[!([.].box{
+    backgroud-image:
+    -webkit-linear-gradien(
+        -90deg,
+        yellow,
+        red 10%,
+        green 50%,
+    );
+    -webkit-background-clip:text;
+    color:transparent;
+}])
+
+
+
 ### **技术栈:**
 
 
