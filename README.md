@@ -1,5 +1,3 @@
-### 
-
 <!--
 **ACodeHX/ACodeHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 
 ### **技术栈:**
 
-[![](https://github.com/ACodeHX/ACodeHX/blob/main/photograph/v2-323005d218f180ed4d40e901c17c9cba_720w.jpg)
+![](https://github.com/ACodeHX/ACodeHX/blob/main/photograph/v2-323005d218f180ed4d40e901c17c9cba_720w.jpg)<br><br><dr>
 
 ### 开源项目
 
@@ -25,9 +23,9 @@ Here are some ideas to get you started:
 
 ![ACodeHX's github stats](https://github-readme-stats.vercel.app/api?username=ACodeHX&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=99)
 
 ### **社交主页：**
 
