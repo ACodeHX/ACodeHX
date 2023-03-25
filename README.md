@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 ### **技术栈:**
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![](https://activity-graph.herokuapp.com/graph?username=ACodeHX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![ACodeHX's github stats](https://github-readme-stats.vercel.app/api?username=ACodeHX&show_icons=true&theme=vue)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACodeHX&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99)
 
