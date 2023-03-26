@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 ### 图
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&bg_color=000000&color=FF1493&line=7B68EE&point=24292e&area=true&area_color=7FFFAA&point=FFFF00&hide_border=falsh&height=600&radius=20&custom_title=GitHub%20%20Activity)](https://github.com/ACodeHX/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&bg_color=000000&color=FF1493&line=7B68EE&point=24292e&area=true&area_color=7FFFAA&point=FFFF00&hide_border=falsh&height=600&radius=20&custom_title=<h3>GitHub%20%20Activity</h3>)](https://github.com/ACodeHX/github-readme-activity-graph)
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=ACodeHX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACodeHX&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99&bg_color=c71585&wide=6000)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=99)
 
