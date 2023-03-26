@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 ### **技术栈:**
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ACodeHX/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&custom_title=This%20is%20a%20title&hide_border=false)](https://github.com/ACodeHX/github-readme-activity-graph)
 
 ### 开源项目
 
+### 图
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=00FFFF&line=00FFFF&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=ACodeHX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
