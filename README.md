@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 图
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&bg_color=000000&color=FFFF00&line=7B68EE&point=24292e&area=true&hide_border=true)](https://github.com/ACodeHX/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&bg_color=000000&color=FFFF00&line=7B68EE&point=24292e&area=false&point=FFFF00&hide_border=true)](https://github.com/ACodeHX/github-readme-activity-graph)
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=ACodeHX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
