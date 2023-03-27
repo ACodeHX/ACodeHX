@@ -12,18 +12,18 @@ Here are some ideas to get you started:
 ### **技术栈:**
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&custom_title=This%20is%20a%20title&hide_border=false&bg_color=4c71f2,000000)](https://github.com/ACodeHX/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&custom_title=This%20is%20a%20title&hide_border=false&bg_color=DEG)](https://github.com/ACodeHX/github-readme-activity-graph)
 
 ### 开源项目
 
 ### 图
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&bg_color=000000&color=FF1493&line=7B68EE&point=24292e&area=true&area_color=7FFFAA&point=FFFF00&hide_border=falsh&height=600&radius=20&custom_title=<h3>GitHub%20Activity</h3>)](https://github.com/ACodeHX/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&bg_color=000000&color=FF1493&line=7B68EE&point=24292e&area=true&area_color=7FFFAA&point=FFFF00&hide_border=falsh&height=600&radius=20&custom_title=<h3>GitHub%20Activity</h3>&card_width=500)](https://github.com/ACodeHX/github-readme-activity-graph)
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=ACodeHX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACodeHX&show_icons=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACodeHX&show_icons=true&theme=tokyonight&card_width=1000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99&bg_color=c71585&wide=6000)
 
