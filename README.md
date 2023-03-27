@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ![decription](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white****)
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ACodeHX/count.svg)
 
 ### **技术栈:**
 
