@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACodeHX&show_icons=true&theme=tokyonight&card_width=1000&heiht=600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99&bg_color=c71585&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99&bg_color=270ea6,ffc64d&card_width=1000)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=99)
 
