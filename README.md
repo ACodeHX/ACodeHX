@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99&bg_color=0,e684ae,79cbca,4cd89a&card_width=1000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=99&card_width=1000height=600)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=150&card_width=1000&height=600)
 
 ### **社交主页：**
 
