@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/ACodeHX/count.svg)
 
-### **技术栈:**
-
-
-### 开源项目
 
 ### GitHub 活跃度
 
