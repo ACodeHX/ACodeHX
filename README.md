@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ### **技术栈:**
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&custom_title=This%20is%20a%20title&hide_border=false&bg_color=DEG)](https://github.com/ACodeHX/github-readme-activity-graph)
-
 ### 开源项目
 
 ### 图
