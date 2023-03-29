@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 ### 开源项目
 
-### 图
+### GitHub 活跃度
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&bg_color=000000&color=FF1493&line=7B68EE&point=24292e&area=true&area_color=7FFFAA&point=FFFF00&hide_border=falsh&height=600&radius=20&custom_title=<h3>GitHub%20Activity</h3>&card_width=500)](https://github.com/ACodeHX/github-readme-activity-graph)
-### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=ACodeHX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
