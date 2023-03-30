@@ -5,6 +5,8 @@ Here are some ideas to get you started:
 
 -->
 
+### GitHub 活跃度
+
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ACodeHX" /> </div>
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
@@ -12,9 +14,6 @@ Here are some ideas to get you started:
 ![decription](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white****)
 
 ![Visitor Count](https://profile-counter.glitch.me/ACodeHX/count.svg)
-
-
-### GitHub 活跃度
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ACodeHX&bg_color=000000&color=FF1493&line=7B68EE&point=24292e&area=true&area_color=7FFFAA&point=FFFF00&hide_border=falsh&height=600&radius=20&custom_title=<h3>GitHub%20Activity</h3>&card_width=500)](https://github.com/ACodeHX/github-readme-activity-graph)
 
