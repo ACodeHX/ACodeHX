@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99&bg_color=45,8500ff,ff0000&card_width=1000&title_color=000000&text_color=000000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&layout=compact&langs_count=150&card_width=1000&card_height=600&bg_color=45,8500FF,FF0000&color=000000&area_color=7FFFAA&radius=20&line=7B68EE&text_color=000000&title_color=000000)
-
 <p align="center">
   <a href="https://nodejs.org/">
     <img
