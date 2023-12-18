@@ -18,15 +18,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACodeHX&langs_count=99&bg_color=45,8500ff,ff0000&card_width=1000&title_color=000000&text_color=000000)
 
-<p align="center">
-    <img
-      alt="Node.js"
-      src="https://nodejs.org/static/images/logo-light.svg"
-      width="400"
-    />
-  </a>
-</p>
-
 ### **社交主页：**
 
 [GitHub](https://github.com/ACodeHX)
