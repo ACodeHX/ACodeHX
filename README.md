@@ -20,6 +20,4 @@ Here are some ideas to get you started:
 
 ### **社交主页：**
 
-[GitHub](https://github.com/ACodeHX)
-
-  [gitee](https://gitee.com/ACodeHX)
+[GitHub](https://github.com/MeldHX)
